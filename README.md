@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
