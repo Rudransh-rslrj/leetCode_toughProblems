@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0178-rank-scores) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
