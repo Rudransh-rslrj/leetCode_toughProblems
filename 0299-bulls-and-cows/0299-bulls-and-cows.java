@@ -20,7 +20,7 @@ class Solution {
             if(a==b){
                 continue;
             }
-            if (!set1.containsKey(b)||set1.get(b) <= 0) {
+            if (!set1.containsKey(b)||set1.get(b)<=0) {
                 continue;
             }
             set1.put(b,set1.get(b)-1);
