@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0044-wildcard-matching) |
+| [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
