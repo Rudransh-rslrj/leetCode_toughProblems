@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,5 +116,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
