@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
