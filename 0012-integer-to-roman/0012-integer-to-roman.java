@@ -1,13 +1,22 @@
 class Solution {
-    public String intToRoman(int num) {
-        String[] ones = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
-        String[] tens = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
-        String[] hundreds = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
-        String[] thousands = {"", "M", "MM", "MMM"};
 
-        return thousands[num / 1000]
-             + hundreds[(num / 100) % 10]
-             + tens[(num / 10) % 10]
-             + ones[num % 10];
+    public String intToRoman(int num) {
+        int numbers[]={1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        int i=0;
+        String romanNumbers[]={"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+
+        StringBuilder sb=new StringBuilder();
+
+        while(num>0){
+            if(numbers[i]<=num){
+                sb.append(romanNumbers[i]);
+                num-=numbers[i];
+            }else{
+                i++;
+            }
+        }
+
+        return sb.toString();
+    
     }
 }
