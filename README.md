@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0516-longest-palindromic-subsequence) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0402-remove-k-digits) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Tree
 |  |
 | ------- |
@@ -121,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
+| [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 ## Queue
 |  |
 | ------- |
