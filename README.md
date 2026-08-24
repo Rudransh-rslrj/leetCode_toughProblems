@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Backtracking
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0935-knight-dialer](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0935-knight-dialer) |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Greedy
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
