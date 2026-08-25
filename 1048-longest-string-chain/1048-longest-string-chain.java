@@ -45,7 +45,6 @@ class Solution {
 
         for (String word : words) {
             int best = 1;
-
             for (int i = 0; i < word.length(); i++) {
                 String prev = word.substring(0, i) + word.substring(i + 1);
 
@@ -53,7 +52,6 @@ class Solution {
                     best = Math.max(best, dp.get(prev) + 1);
                 }
             }
-
             dp.put(word, best);
             ans = Math.max(ans, best);
         }
