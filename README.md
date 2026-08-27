@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 | [0554-brick-wall](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0554-brick-wall) |
+| [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Backtracking
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 ## Database
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0516-longest-palindromic-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0935-knight-dialer) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
