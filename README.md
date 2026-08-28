@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
