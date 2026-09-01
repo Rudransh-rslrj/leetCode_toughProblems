@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
 | [0554-brick-wall](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0554-brick-wall) |
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
 ## Counting
 |  |
@@ -153,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
