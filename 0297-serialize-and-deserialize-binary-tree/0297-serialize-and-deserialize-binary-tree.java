@@ -21,8 +21,6 @@ public class Codec {
             int n= q.size();
             for(int i=0; i<n; i++){
                 TreeNode t= q.poll();
-                String k=Integer.toString(t.val);
-
                 if(t.left!=null){
                     q.add(t.left);
                     sb.append(Integer.toString(t.left.val)+',');   
