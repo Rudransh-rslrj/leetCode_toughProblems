@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
@@ -233,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
