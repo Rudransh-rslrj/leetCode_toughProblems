@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0516-longest-palindromic-subsequence) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Design
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -154,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
@@ -226,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
