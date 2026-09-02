@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0554-brick-wall) |
 | [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
+| [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Backtracking
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0935-knight-dialer) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
+| [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Greedy
 |  |
@@ -194,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0264-ugly-number-ii) |
 | [0767-reorganize-string](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0767-reorganize-string) |
+| [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
