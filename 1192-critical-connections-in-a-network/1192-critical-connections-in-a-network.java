@@ -10,18 +10,18 @@ class Solution {
         
         for(int el:adj.get(i)){
             
-            // if(steps[el]==0){
-            //     step++;
-            //     dfs(el,i,steps,lowSteps,adj,ret);
-            // }
-            // if(el!=parent)lowSteps[i]=Math.min(lowSteps[i],lowSteps[el]);
-
             if(steps[el]==0){
                 step++;
                 dfs(el,i,steps,lowSteps,adj,ret);
-                lowSteps[i] = Math.min(lowSteps[i], lowSteps[el]);
             }
-            else if(el!=parent)lowSteps[i] = Math.min(lowSteps[i], steps[el]);
+            if(el!=parent)lowSteps[i]=Math.min(lowSteps[i],lowSteps[el]);
+
+            // if(steps[el]==0){
+            //     step++;
+            //     dfs(el,i,steps,lowSteps,adj,ret);
+            //     lowSteps[i] = Math.min(lowSteps[i], lowSteps[el]);
+            // }
+            // else if(el!=parent)lowSteps[i] = Math.min(lowSteps[i], steps[el]);
                
         }
 
