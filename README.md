@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1192-critical-connections-in-a-network) |
 ## Design
 |  |
 | ------- |
@@ -250,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
