@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1192-critical-connections-in-a-network) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0935-knight-dialer) |
 | [1048-longest-string-chain](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1048-longest-string-chain) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1696-jump-game-vi](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1696-jump-game-vi) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Greedy
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
@@ -173,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0337-house-robber-iii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/0173-binary-search-tree-iterator) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Rudransh-rslrj/leetCode_toughProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
