@@ -9,12 +9,14 @@ class Solution {
         }
     }
 
+    public int change[][] = new int[][] {{1, 0},{0, 1},{-1, 0},{0, -1}};
+
 
     public void dfs(int r,int c,int[][] grid,ptr[][] pg,ptr temp){
         grid[r][c]=2;
         temp.length++;
         pg[r][c]=temp;
-        int change[][] = new int[][] {{1, 0},{0, 1},{-1, 0},{0, -1}};
+        
         for(int i=0; i<4; i++){
             int row=r+change[i][0];
             int column=c+change[i][1];
@@ -42,7 +44,6 @@ class Solution {
                 else if(grid[i][j]==0){
                     int sum=0;
                     HashSet<Integer> set = new HashSet<>();
-                    int change[][] = new int[][] {{1, 0},{0, 1},{-1, 0},{0, -1}};
                     for(int k=0; k<4; k++){
                         int r=i+change[k][0];
                         int c=j+change[k][1];
